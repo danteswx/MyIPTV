@@ -2393,7 +2393,7 @@ CGTN西班牙语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0367
 CGTN法语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0368
 CGTN阿拉伯语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0369
 CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0370
-电影轮播,#genre#
+虎牙电影,#genre#
 电影_星爷,http://47.109.110.9/cdn/hy/11342412.flv
 电影_英叔,http://47.109.110.9/cdn/hy/11342421.flv
 电影_发哥,http://47.109.110.9/cdn/hy/11342387.flv
