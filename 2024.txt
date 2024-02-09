@@ -1792,6 +1792,7 @@ CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com
 影视频道,#genre#
 1905环球经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19052
 1905云影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19051
+重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/g.php?id=cwjd
 重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/w.php?id=CWJDHD
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000001
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000004000019624
@@ -1803,8 +1804,6 @@ CHC家庭影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0323
 华语影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=hyyy8m/8000000
 星光影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=xgyy8m/8000000
 全球大片,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=qqdp8m/8000000
-北京淘电影[软解],http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
-北京淘电影[软解],http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
 斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?0.smil
@@ -1815,7 +1814,6 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8?0.smil
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-北京淘电影[软解],http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 影视轮播1,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw677754739_-1516035370/ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8?icpid=3&RTS=1674380793&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
