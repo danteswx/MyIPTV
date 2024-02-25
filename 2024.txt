@@ -1787,6 +1787,7 @@ CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com
 黑莓电影,http://1.15.48.2:65321/dssfds546gdfffsdf34/c.php?p=ystenlive&id=1000000004000019624
 精彩影视,http://1.15.48.2:65321/dssfds546gdfffsdf34/c.php?p=hnbblive&id=2000000004000000063
 精彩影视,http://1.15.48.2:65321/dssfds546gdfffsdf34/c.php?p=wasusyt&id=6000000006000320630
+北京淘电影,http://1.15.48.2:65321/dssfds546gdfffsdf34/bjt.php
 CHC动作电影,http://1.15.48.2:65321/dssfds546gdfffsdf34/a.php?id=0324
 CHC高清电影,http://1.15.48.2:65321/dssfds546gdfffsdf34/a.php?id=0325
 CHC家庭影院,http://1.15.48.2:65321/dssfds546gdfffsdf34/a.php?id=0323
