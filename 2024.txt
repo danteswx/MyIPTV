@@ -451,8 +451,6 @@ CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 港台新闻,#genre#
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$官网
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$官网
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官网
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官网
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv$官网
