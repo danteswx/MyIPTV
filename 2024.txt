@@ -414,9 +414,9 @@ CCTV卫生健康,http://1.15.48.2:65321/dssfds546gdfffsdf34/y.php?id=wsjk
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv$官网
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv$官网
 凤凰资讯,rtmp://play-flive.ifeng.com/live/06OLEEWQKN4$官网
-凤凰中文,http://111.31.107.185/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://111.31.107.185/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://111.31.107.184/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文,http://182.100.45.92/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://182.100.45.92/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://182.100.45.92/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
 晴天港台,#genre#
 中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
